@@ -1,18 +1,9 @@
-# MOBO-TGC
-
 # Analog Circuit Design using Multi-Objective Bayesian Optimization (MOBO)
-
-
-
-
-
-
-
 ---
 
-## 环境配置
+## Environment Setup
 
-在jupyter中用在以下环境下用PySpice模拟TGC电路，并用Multi-Objective Bayesian Optimization
+Simulate the TGC circuit using PySpice in Jupyter under the following environment, and apply Multi-Objective Bayesian Optimization:
 
 - **Python**: 3.11.13
 - **PySpice**: 1.5  
